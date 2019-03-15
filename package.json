@@ -1,0 +1,21 @@
+{
+  "name": "centraly",
+  "version": "1.0.0",
+  "description": "Esto es una prueba de e-commerce",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "ecommerce"
+  ],
+  "author": "Angel Moreno",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
